@@ -1,2 +1,2 @@
 # Tarea-BD
-Ejercicios de querys para tarea de la materia Bases de Datos del 7 de septiembre
+Todas las tareas de la materia de Bases de Datos
